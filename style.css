@@ -1,0 +1,20 @@
+.button {
+  position: absolute;
+  width: 40%;
+  top: 10%;
+  padding-top: 40%;
+}
+#button1 {
+  position: absolute;
+  left: 5%;
+  background-image: url("images/button1.png");
+  background-size: 100% 100%;
+}
+
+#button2 {
+  position: absolute;
+  right: 5%;
+  background-image: url("images/button2.png");
+  background-size: 100% 100%;
+}
+/**/
