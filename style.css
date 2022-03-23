@@ -17,4 +17,10 @@
   background-image: url("images/button2.png");
   background-size: 100% 100%;
 }
+
+body {
+  background-image: url("fart mongus.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 /**/
